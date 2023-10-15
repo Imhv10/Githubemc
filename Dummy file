@@ -1,7 +1,8 @@
-Important steps for github/vscode
+Important steps to follow for github/vscode link up
 git clone "repo link"
 cd Repo name
 git add filename
 git commit -m "statement of ur choice"
 git push origin main
 git pull
+
